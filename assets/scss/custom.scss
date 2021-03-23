@@ -1,0 +1,24 @@
+@import "main";
+
+a {
+    color: $grey;
+}
+
+.handle-url {
+    font-size: 1.1em;
+    padding-top: 1rem;
+    text-decoration: none;
+    color: $grey;
+    border-bottom: 1px $grey dashed;
+}
+
+.handle-url:hover {
+    padding-top: 1rem;
+    text-decoration: none;
+    font-style: italic;
+}
+
+.spacer {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
