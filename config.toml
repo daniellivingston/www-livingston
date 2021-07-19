@@ -66,18 +66,18 @@ copyright = "© {year} Daniel Livingston"
 
 #[[menu.main]]
 #  identifier = "blog"
-#  name = "blog"
+#  name = "📝 blog"
 #  title = "Blog"
 #  url = "/blog"
 
 [[menu.main]]
   identifier = "about"
-  name = "about"
+  name = "🙋‍♂️ about"
   title = "About"
   url = "/about"
 
 [[menu.main]]
   identifier = "resume"
-  name = "résumé"
+  name = "📄 résumé"
   title = "Résumé"
   url = "/resume"
