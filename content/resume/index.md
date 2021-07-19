@@ -7,8 +7,6 @@ title: "Resumé"
 | ⤓ [Download as PDF](/livingston_cv_march2021.pdf) |
 | ------------------------------------------------- |
 
-<br/><br/>
-
 <div style="text-align:center">
     <h4>Resume - Livingston, Daniel R.</h4>
         <iframe
