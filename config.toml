@@ -64,11 +64,11 @@ copyright = "© {year} Daniel Livingston"
   title = "Home"
   url = "/"
 
-[[menu.main]]
-  identifier = "blog"
-  name = "blog"
-  title = "Blog"
-  url = "/blog"
+#[[menu.main]]
+#  identifier = "blog"
+#  name = "blog"
+#  title = "Blog"
+#  url = "/blog"
 
 [[menu.main]]
   identifier = "about"
