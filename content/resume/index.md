@@ -14,5 +14,6 @@ title: "Resumé"
             frameborder="0" 
             height="750px" 
             width="100%">
+        Content is loading, or your browser does not support PDF iframe embeds.
         </iframe>
   </div>
