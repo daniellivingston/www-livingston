@@ -4,8 +4,8 @@ title: "Resumé"
 
 <br/>
 
-| ⤓ [Download as PDF](/livingston_cv_march2021.pdf) |
-| ------------------------------------------------- |
+| ⤓ [Download as PDF](/livingston_cv_march2021.pdf) | ⤓ [View Online](#) | ⤓ [Source Code](#) |
+| ------------------------------------------------- | ------------------ | ----------------- |
 
 <div style="text-align:center">
     <h4>Resume - Livingston, Daniel R.</h4>
