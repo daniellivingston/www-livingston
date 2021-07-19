@@ -19,3 +19,7 @@ In my free time, I'm an [avid CrossFitter](https://www.facebook.com/CrossFitLosA
 <a class="github-button" href="https://github.com/daniellivingston" data-size="large" aria-label="Follow @daniellivingston on GitHub">Follow @daniellivingston</a>
 
 ### [➔ LinkedIn (@danielrlivingston)](https://www.linkedin.com/in/danielrlivingston/)
+
+## About This Site
+
+This website was made with [Hugo](#) using a largely custom theme and is deployed via [Netlify](#). The source code can be found [here](https://github.com/daniellivingston/www-livingston/).
