@@ -12,10 +12,10 @@ In my free time, I'm an [avid CrossFitter](https://www.facebook.com/CrossFitLosA
 
 ## Find Me Online
 
-### [GitHub](https://github.com/daniellivingston)
+### [➔ GitHub (@daniellivingston)](https://github.com/daniellivingston)
 
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
 <a class="github-button" href="https://github.com/daniellivingston" data-size="large" aria-label="Follow @daniellivingston on GitHub">Follow @daniellivingston</a>
 
-### [LinkedIn](https://www.linkedin.com/in/danielrlivingston/)
+### [➔ LinkedIn (@danielrlivingston)](https://www.linkedin.com/in/danielrlivingston/)
