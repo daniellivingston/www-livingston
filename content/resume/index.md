@@ -12,7 +12,7 @@ title: "Resumé"
         <iframe
             src="https://docs.google.com/viewer?url=https://daniel-livingston.com/livingston_cv_march2021.pdf&embedded=true" 
             frameborder="0" 
-            height="500px" 
+            height="750px" 
             width="100%">
         </iframe>
   </div>
