@@ -12,14 +12,21 @@ In my free time, I'm an [avid CrossFitter](https://www.facebook.com/CrossFitLosA
 
 ## Find Me Online
 
-### [➔ GitHub (@daniellivingston)](https://github.com/daniellivingston)
+<style>
+    /*
+     * Cheap hack to remove the massive
+     * whitespace between the profile links below.
+     */
+    h3 {
+        margin-top: 0.1rem;
+    }
 
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+    h2 {
+        margin-bottom: 1.0rem;
+    }
+</style>
 
-<a class="github-button" href="https://github.com/daniellivingston" data-size="large" aria-label="Follow @daniellivingston on GitHub">Follow @daniellivingston</a>
+<script src="https://kit.fontawesome.com/95bd3f0cc6.js" crossorigin="anonymous"></script>
 
-### [➔ LinkedIn (@danielrlivingston)](https://www.linkedin.com/in/danielrlivingston/)
-
-## About This Site
-
-This website was made with [Hugo](#) using a largely custom theme and is deployed via [Netlify](#). The source code can be found [here](https://github.com/daniellivingston/www-livingston/).
+### ➔ <i class="fab fa-github"></i> [GitHub (@daniellivingston)](https://github.com/daniellivingston)
+### ➔ <i class="fab fa-linkedin"></i> [LinkedIn (@danielrlivingston)](https://www.linkedin.com/in/danielrlivingston/)
