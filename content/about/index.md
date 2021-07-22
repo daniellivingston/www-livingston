@@ -2,7 +2,8 @@
 title: "About"
 ---
 
-## Hi, I’m Daniel.
+
+## Hi, I’m Daniel. 👋
 
 I'm a software engineer interested in computational geometry (like polygonal meshing, 3D graphics, and augmented reality), geospatial analysis (usually within GIS frameworks), parallel programming (including distributed and high-performance computing), and, most importantly, ways of coupling those domains together.
 
