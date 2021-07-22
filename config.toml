@@ -81,3 +81,9 @@ copyright = "© {year} Daniel Livingston"
   name = "📄 résumé"
   title = "Résumé"
   url = "/resume"
+
+[[menu.main]]
+  identifier = "projects"
+  name = "🛠 projects"
+  title = "Projects"
+  url = "/projects"
