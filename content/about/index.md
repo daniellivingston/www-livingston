@@ -2,7 +2,6 @@
 title: "About"
 ---
 
-
 ## Hi, I’m Daniel. 👋
 
 I'm a software engineer interested in computational geometry (like polygonal meshing, 3D graphics, and augmented reality), geospatial analysis (usually within GIS frameworks), parallel programming (including distributed and high-performance computing), and, most importantly, ways of coupling those domains together.
@@ -29,5 +28,5 @@ In my free time, I'm an [avid CrossFitter](https://www.facebook.com/CrossFitLosA
 
 <script src="https://kit.fontawesome.com/95bd3f0cc6.js" crossorigin="anonymous"></script>
 
-### ➔ <i class="fab fa-github"></i> [GitHub (@daniellivingston)](https://github.com/daniellivingston)
-### ➔ <i class="fab fa-linkedin"></i> [LinkedIn (@danielrlivingston)](https://www.linkedin.com/in/danielrlivingston/)
+### ➔ <i class="fab fa-github"></i> &nbsp; [GitHub (@daniellivingston)](https://github.com/daniellivingston)
+### ➔ <i class="fab fa-linkedin"></i> &nbsp; [LinkedIn (@danielrlivingston)](https://www.linkedin.com/in/danielrlivingston/)
