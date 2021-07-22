@@ -30,3 +30,6 @@ In my free time, I'm an [avid CrossFitter](https://www.facebook.com/CrossFitLosA
 
 ### ➔ <i class="fab fa-github"></i> &nbsp; [GitHub (@daniellivingston)](https://github.com/daniellivingston)
 ### ➔ <i class="fab fa-linkedin"></i> &nbsp; [LinkedIn (@danielrlivingston)](https://www.linkedin.com/in/danielrlivingston/)
+
+
+{{< pfp/asciipfp >}}
