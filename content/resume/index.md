@@ -4,11 +4,23 @@ title: "Resumé"
 
 <br/>
 
+----------
+
+<br/>
+
+
 | ⬇️ [Download as PDF](https://github.com/daniellivingston/resume/raw/pdf/livingston_daniel_resume.pdf) | 🌎 [View Online](https://docs.google.com/viewerng/viewer?url=https://github.com/daniellivingston/resume/raw/pdf/livingston_daniel_resume.pdf) | 💾 [Source Code](https://github.com/daniellivingston/resume) |
 | ------------------------------------------------- | ------------------ | ----------------- |
 
+<br/>
+
+----------
+
+<br/>
+
+
+
 <div style="text-align:center">
-    <h4>Resume - Livingston, Daniel R.</h4>
     <iframe
         src="https://docs.google.com/viewer?url=https://github.com/daniellivingston/resume/raw/pdf/livingston_daniel_resume.pdf&embedded=true" 
         frameborder="0" 
