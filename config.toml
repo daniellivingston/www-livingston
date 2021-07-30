@@ -19,7 +19,9 @@ copyright = "© {year} Daniel Livingston"
   # https://gohugo.io/functions/format/#gos-layout-string
   dateFormat = "Jan 2 2006"
   buildStatus = "https://app.netlify.com/sites/www-livingston/deploys"
-  resumeURL = "https://github.com/daniellivingston/resume/raw/pdf/livingston_daniel_resume.pdf"
+  resumeSRC = "https://github.com/daniellivingston/resume"
+  resumePDF = "https://github.com/daniellivingston/resume/raw/pdf/livingston_daniel_resume.pdf"
+  resumeHTML = "https://daniellivingston.github.io/resume/"
 
   # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
   instagram = "https://instagram.com/liv.ing.ston"
