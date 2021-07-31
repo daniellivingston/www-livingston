@@ -1,11 +1,37 @@
-<div style="margin-top: 10px; margin-bottom: 10px;">
+<style>
+    .resumeFrameHolder {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        width: 100%;
+    }
+
+    .resumeIFrame {
+        min-height: 400px;
+        width:100%;
+        border:none;
+        overflow:hidden;
+    }
+</style>
+
+<div class="resumeFrameHolder">
     <iframe 
         src={{ .Site.Params.resumeHTML }}
-        width="100%"
-        frameborder="0"
-        scrolling="auto"
-        style="overflow: overlay; height: max-content; min-height: 750px; background-color: grey;"
-    >
-    Loading...
-    </iframe>
+        class="resumeIFrame"
+        scrollable="true"
+        sandbox="allow-scripts allow-same-origin"
+        id="resume-iframe"
+    ></iframe>
 </div>
+
+<script>
+    let iframe = document.querySelector("#resume-iframe");
+
+    window.addEventListener('message', function (e) {
+        // message that was passed from iframe page
+        let message = e.data;
+
+        iframe.style.height = message.height + 'px';
+        //iframe.style.width = message.width + 'px';
+        console.log("made it here");
+    }, false);
+</script>
