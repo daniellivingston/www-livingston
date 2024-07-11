@@ -4,7 +4,7 @@ theme = "hugo-theme-codex"
 # Override these settings with your own
 title = "Daniel Livingston"
 languageCode = "en-us"
-baseURL = "https://www.daniel-livingston.com/"
+baseURL = "https://www.lvngstn.xyz/"
 copyright = "© {year} Daniel Livingston"
 
 # Add your Disqus shortname here.
@@ -17,17 +17,17 @@ copyright = "© {year} Daniel Livingston"
 [params]
   # Follow the Hugo date/time format reference here: 
   # https://gohugo.io/functions/format/#gos-layout-string
-  dateFormat = "Jan 2 2006"
+  dateFormat  = "Jan 2 2006"
   buildStatus = "https://app.netlify.com/sites/www-livingston/deploys"
-  resumeSRC = "https://github.com/daniellivingston/resume"
-  resumePDF = "https://github.com/daniellivingston/resume/raw/pdf/livingston_daniel_resume.pdf"
-  resumeHTML = "https://daniellivingston.github.io/resume/"
+  resumeSRC   = "https://github.com/daniellivingston/resume"
+  resumePDF   = "https://github.com/daniellivingston/resume/raw/pdf/livingston_daniel_resume.pdf"
+  resumeHTML  = "https://daniellivingston.github.io/resume/"
 
   # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
   instagram = "https://instagram.com/liv.ing.ston"
-  linkedin = "https://www.linkedin.com/in/danielrlivingston/"
-  github = "https://github.com/daniellivingston"
-  email = "mailto:daniel.livingston@live.com"
+  linkedin  = "https://www.linkedin.com/in/danielrlivingston/"
+  github    = "https://github.com/daniellivingston"
+  email     = "mailto:daniel.livingston@live.com"
 
   # twitter = "https://twitter.com/<your handle>"
   # mastodon = "https://mastodon.social/@nickname"
@@ -55,10 +55,10 @@ copyright = "© {year} Daniel Livingston"
 [markup]
   [markup.highlight]
     codeFences = false
-    
+
   # Set to false to disallow raw HTML in markdown files
   [markup.goldmark.renderer]
-      unsafe = true
+    unsafe = true
 
 # Controls the navigation
 [[menu.main]]
@@ -75,7 +75,7 @@ copyright = "© {year} Daniel Livingston"
 
 [[menu.main]]
   identifier = "about"
-  name = "🙋‍♂️ about"
+  name = "🙋 about"
   title = "About"
   url = "/about"
 
